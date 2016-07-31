@@ -1,6 +1,6 @@
 def jokenpo(jogada1, jogada2):
-	jogada1 = jogada1.upper()
 	jogada2 = jogada2.upper()
+	jogada1 = jogada1.upper()
 	if jogada1 == 'PEDRA' and jogada2 == 'PAPEL':
 		return('PAPEL')
 	elif jogada1 == 'PEDRA' and jogada2 == 'TESOURA':
