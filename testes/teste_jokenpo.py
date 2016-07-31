@@ -1,6 +1,6 @@
 import sys
 
-sys.path.insert(1,'C:\\Documents and Settings\\usuario\\Meus documentos\\Jokenpo\\src')
+sys.path.insert(1,'C:\\Programas_Python\\Jokenpo\\src')
 #sys.path.append('../Jokenpo/src')
 
 import jokenpo
